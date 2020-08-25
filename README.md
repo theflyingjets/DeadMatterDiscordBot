@@ -21,8 +21,8 @@ Copy the bot.py to Dead Matter Dedicated Server\deadmatter\Saved\Logs
 Then cd into that location and install discordpy
 
 ```console
-cd .\Dead Matter Dedicated Server\deadmatter\Saved\Logs
-py -3 -m pip install -U discord.py
+$ cd .\Dead Matter Dedicated Server\deadmatter\Saved\Logs
+$ py -3 -m pip install -U discord.py
 ```
 
 After thats place your token into the script here from the discord bot app site.
@@ -32,7 +32,7 @@ client.run('<API Key or token goes here!>')
 
 Then connect or bot to the server and give it prems and run it.
 ```console
-python bot.py
+$ python bot.py
 ```
 
 ### Screenshot preview
