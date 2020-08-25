@@ -37,13 +37,13 @@ python bot.py
 
 ### Screenshot preview
 
-![screenshot](https://i.imgur.com/mRgaSJA.png)
+![screenshot](https://raw.githubusercontent.com/theflyingjets/DeadMatterDiscordBot/master/image.png)
 
 ### Requirements
 This order also applies in the startup order.
 
 - [`Python 3.8.X`](https://www.python.org/downloads/release/python-385/)
-- [discord.py](https://github.com/Rapptz/discord.py)
+- [`discord.py`](https://github.com/Rapptz/discord.py)
 
 ## Contributing
 
